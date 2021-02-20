@@ -15,4 +15,4 @@ I myself am queer, trans and autistic.
 - 🙆🏻‍♂️ Pronouns: **he/him**
 - 👨🏻‍💻 Skills: **HTML, CSS, JavaScript, Node.js, React.js, Inclusivity, People, Accessibility**
 
-Although I chose to live a much quieter existence and stopped doing the following me you may know me from my international conference talks on Open Source, my work with Hoodie.js, as a co-founder of WeAllJS or as the founder of YourFirstPR.
+Although I chose to live a much quieter existence and stopped doing the following; you may know me from my international conference talks on Open Source, my work with Hoodie.js, as a co-founder of WeAllJS or as the founder of YourFirstPR.
