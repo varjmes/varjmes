@@ -1,4 +1,6 @@
-<img src='https://github.com/varjmes/varjmes/blob/main/header.png?raw=true' width='500' alt=''/>
+<p style="text-align:center;">
+  <img src='https://github.com/varjmes/varjmes/blob/main/header.png?raw=true' width='500' alt=''/>
+</p>
 
 Hi! My name is James (he/him) and I'm a Senior Developer.
 
